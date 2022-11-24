@@ -18,3 +18,9 @@ https://www.googleapis.com/books/v1/volumes?q=harry%20potter
 ## Ejercicio
 
 Analizar la respuesta y seleccionar algunos campos para realizar el modelamiento respectivo en MongoDB, así como configurar el registro de libros mediante Flask.
+
+Creación de libro:
+![](./app/static/images/form_book.jpg)
+
+Libros registrados:
+![](./app/static/images/books_registered.jpg)
