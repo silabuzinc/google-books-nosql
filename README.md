@@ -1,7 +1,7 @@
 # google-books-nosql
 Aplicación Flask de modelamiento de libros con mongodb
 
-# Google Books
+## Google Books
 
 Es un servicio de Google que busca el texto completo de libros y revistas que Google tiene en su base de datos digital.
 
@@ -15,6 +15,6 @@ A continuación un ejemplo de uso de la API mencionada:
 https://www.googleapis.com/books/v1/volumes?q=harry%20potter
 ```
 
-# Ejercicio
+## Ejercicio
 
 Analizar la respuesta y seleccionar algunos campos para realizar el modelamiento respectivo en MongoDB, así como configurar el registro de libros mediante Flask.
